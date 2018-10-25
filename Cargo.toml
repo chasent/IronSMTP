@@ -1,0 +1,11 @@
+[package]
+name = "rsmtp"
+version = "0.1.0"
+authors = ["Marc Sykes <marc.sykes@vizexplorer.com>"]
+
+[dependencies]
+tokio = "0.1.7"
+tokio-codec = "0.1.0"
+bytes = "0.4.9"
+futures = "0.1.23"
+nom = "^4.1"
